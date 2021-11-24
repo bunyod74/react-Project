@@ -1,0 +1,15 @@
+.begin-page {
+  border: 1px solid rgba(0, 0, 0, 0.125);
+  border-radius: 5px;
+  margin-top: 40px;
+  padding-top: 20px;
+}
+
+.card-m {
+  max-width: 540px;
+}
+
+.card-m .card-img {
+  height: 100px;
+}
+/*# sourceMappingURL=Contact.css.map */
