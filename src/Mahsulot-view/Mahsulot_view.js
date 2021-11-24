@@ -32,6 +32,7 @@ const Mahsulott = () =>{
       <div class="card-body">
         <h5 class="card-title">{elem.message}</h5>
         <p class="card-text">{elem.surname}</p>
+        <h1>salom jpiriq</h1>
       </div>
     </div>
   </div>
